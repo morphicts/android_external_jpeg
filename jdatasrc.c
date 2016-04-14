@@ -20,6 +20,7 @@
 #include "jpeglib.h"
 #include "jerror.h"
 
+/* TS: copy from cm12.1 */
 
 /* Expanded data source object for stdio input */
 
